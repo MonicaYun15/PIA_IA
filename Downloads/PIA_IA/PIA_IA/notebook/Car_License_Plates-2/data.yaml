@@ -1,0 +1,12 @@
+names:
+- licence
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: car_license_plates
+  url: https://universe.roboflow.com/moin/car_license_plates/dataset/2
+  version: 2
+  workspace: moin
+test: ../test/images
+train: ../train/images
+val: ../valid/images
